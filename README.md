@@ -23,7 +23,7 @@ This project demonstrates real-world data wrangling, text cleaning, sentiment an
 
 - `data-wrangling.Rmd` — Full R Markdown script with code and documentation
 - `df.csv` — Raw NYT comment data
-- `data-wrangling.html` — (Optional) Rendered output of the R Markdown for quick viewing
+- `data-wrangling.html` —  Rendered output of the R Markdown for quick viewing
 
 ## 📚 About the Data
 
